@@ -1,0 +1,2 @@
+world = ->
+  console.log 'world'
